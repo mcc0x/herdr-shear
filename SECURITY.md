@@ -3,7 +3,7 @@
 ## Reporting a vulnerability
 
 Please report security issues privately, through GitHub's
-[private vulnerability reporting](https://github.com/moneycaringcoder/herdr-shear/security/advisories/new)
+[private vulnerability reporting](https://github.com/mcc0x/herdr-shear/security/advisories/new)
 rather than as a public issue.
 
 You can expect an acknowledgement within a few days. Since this is a

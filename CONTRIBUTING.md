@@ -42,7 +42,7 @@ still resolves. Do not weaken it.
 ## Getting set up
 
 ```sh
-git clone https://github.com/moneycaringcoder/herdr-shear
+git clone https://github.com/mcc0x/herdr-shear
 cd herdr-shear
 cargo build --release
 herdr plugin link .          # note: `link` does NOT run the build step
