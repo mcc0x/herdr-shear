@@ -4,7 +4,7 @@
 # classifies how dead each one is, shows what it costs in disk, and removes the
 # ones you pick.
 #
-# Install:   herdr plugin install moneycaringcoder/herdr-shear
+# Install:   herdr plugin install mcc0x/herdr-shear
 # Local dev: herdr plugin link /path/to/herdr-shear   (does NOT run [[build]])
 # Remove:    herdr plugin unlink moneycaringcoder.shear
 # Logs:      herdr plugin log list --plugin moneycaringcoder.shear

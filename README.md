@@ -2,7 +2,7 @@
 
 # shear
 
-A worktree janitor for [herdr](https://github.com/moneycaringcoder/herdr).
+A worktree janitor for [herdr](https://github.com/mcc0x/herdr).
 
 Long-lived agent sessions leave git worktrees behind: one per branch, per
 experiment, per abandoned idea. Most of them are dead and a few of them are not,
@@ -247,7 +247,7 @@ copied from a real terminal.
 As a herdr plugin:
 
 ```
-herdr plugin install moneycaringcoder/herdr-shear
+herdr plugin install mcc0x/herdr-shear
 ```
 
 For local development, which links the checkout without running the build step:

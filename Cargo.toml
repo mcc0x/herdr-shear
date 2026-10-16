@@ -5,13 +5,13 @@ edition = "2021"
 rust-version = "1.88"
 description = "Finds git worktrees that are safe to delete, and removes the ones you pick."
 license = "MIT"
-repository = "https://github.com/moneycaringcoder/herdr-shear"
+repository = "https://github.com/mcc0x/herdr-shear"
 
 # The binary target inherits the package name => target/release/shear, which is
 # what every command in herdr-plugin.toml points at.
 
 [dependencies]
-crook = { git = "https://github.com/moneycaringcoder/herdr-crook", tag = "v0.2.0" }
+crook = { git = "https://github.com/mcc0x/herdr-crook", tag = "v0.2.0" }
 serde = { version = "1", features = ["derive"] }
 serde_json = "1"
 crossterm = "0.29"
